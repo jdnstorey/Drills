@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Drills:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Drills_jar</output-path>
+    <root id="archive" name="Drills.jar">
+      <element id="module-output" name="Drills" />
+    </root>
+  </artifact>
+</component>

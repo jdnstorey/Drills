@@ -1,0 +1,20 @@
+Names:
+    Basic Drill - Wood (1x1 - 1.5s)
+    Upgraded Drill - Stone (2x1 - 1.5s)
+    Sharpened Drill - Iron (3x3 - 2.75s)
+    Swift Drill - Gold (3x3 - 3.5s)
+    Super Drill - Diamond (5x5 - 3s)
+    Mega Drill - Netherite (5x5 - 4s)
+
+Speed coefficients based on iron pickaxe
+
+
+CRAFTING RECIPE:
+    Pickaxe
+    Redstone
+    Chest
+
+
+if youre holding the drill, it gives night vision
+
+when shifting, it only mines 1x1
